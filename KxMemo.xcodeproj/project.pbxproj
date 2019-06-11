@@ -16,6 +16,7 @@
 		4E97359722AE14FB004CE7F9 /* MemoListTableTableViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E97359622AE14FB004CE7F9 /* MemoListTableTableViewController.swift */; };
 		4E97359922AE1A3C004CE7F9 /* ComposeViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E97359822AE1A3C004CE7F9 /* ComposeViewController.swift */; };
 		4E97359B22AE1D11004CE7F9 /* DetailViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E97359A22AE1D11004CE7F9 /* DetailViewController.swift */; };
+		4E97359D22AF8325004CE7F9 /* DataManager.swift in Sources */ = {isa = PBXBuildFile; fileRef = 4E97359C22AF8325004CE7F9 /* DataManager.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -30,6 +31,7 @@
 		4E97359622AE14FB004CE7F9 /* MemoListTableTableViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = MemoListTableTableViewController.swift; sourceTree = "<group>"; };
 		4E97359822AE1A3C004CE7F9 /* ComposeViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ComposeViewController.swift; sourceTree = "<group>"; };
 		4E97359A22AE1D11004CE7F9 /* DetailViewController.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DetailViewController.swift; sourceTree = "<group>"; };
+		4E97359C22AF8325004CE7F9 /* DataManager.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = DataManager.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -72,6 +74,7 @@
 				4E97359622AE14FB004CE7F9 /* MemoListTableTableViewController.swift */,
 				4E97359822AE1A3C004CE7F9 /* ComposeViewController.swift */,
 				4E97359A22AE1D11004CE7F9 /* DetailViewController.swift */,
+				4E97359C22AF8325004CE7F9 /* DataManager.swift */,
 			);
 			path = KxMemo;
 			sourceTree = "<group>";
@@ -158,6 +161,7 @@
 				4E97359922AE1A3C004CE7F9 /* ComposeViewController.swift in Sources */,
 				4E97359522AE1343004CE7F9 /* Model.swift in Sources */,
 				4E97358722AE10D4004CE7F9 /* KxMemo.xcdatamodeld in Sources */,
+				4E97359D22AF8325004CE7F9 /* DataManager.swift in Sources */,
 				4E97359B22AE1D11004CE7F9 /* DetailViewController.swift in Sources */,
 				4E97359722AE14FB004CE7F9 /* MemoListTableTableViewController.swift in Sources */,
 				4E97357F22AE10D4004CE7F9 /* AppDelegate.swift in Sources */,
